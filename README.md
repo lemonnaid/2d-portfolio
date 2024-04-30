@@ -4,6 +4,11 @@ The project was made using Kaboom js.
 
 ![A screenshot of the project](./preview.png)
 
+
+# Live Demo :
+
+https://2d-portfolio-sigma.vercel.app/
+
 # Resources:
 YouTube Tutorial : https://www.youtube.com/watch?v=gwtfWORCN0U&ab_channel=JSLegendDev
 
